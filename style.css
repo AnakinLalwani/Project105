@@ -1,0 +1,21 @@
+body{
+    color: white;
+    background-color:#e8e2db;
+}
+.header {
+    font-size: 35px;
+    background-color:#1a3263;
+    width: 60%;
+    padding: 10px 10px 10px 10px;
+}
+
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 250px; 
+  margin-bottom: 10px;
+}
+h4 {
+    color: #1a3263;
+}
